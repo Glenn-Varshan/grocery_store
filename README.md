@@ -4,10 +4,10 @@ A VueJS and Flask fullstack application for managing a grocery store with user a
 
 ## Languages
 
-- Vue: 53.5%
-- Python: 39.2%
-- JavaScript: 3.9%
-- HTML: 3.4%
+- Vue
+- Python
+- JavaScript
+- HTML
 
 ## Frontend
 
